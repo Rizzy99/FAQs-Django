@@ -1,5 +1,3 @@
-# FAQs-Django
-=======
 # Django Multilingual FAQ API
 This project provides a multilingual FAQ system using Django, CKEditor, and Redis.
 

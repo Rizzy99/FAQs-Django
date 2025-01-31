@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FAQs-Django
 =======
 # Django Multilingual FAQ API
@@ -15,4 +14,4 @@ This project provides a multilingual FAQ system using Django, CKEditor, and Redi
 - `GET /api/faqs/?lang=hi` → Fetch FAQs in Hindi
 - `GET /api/faqs/?lang=bn` → Fetch FAQs in Bengali
 
->>>>>>> b35a728 (feat: Add multilingual FAQ model)
+
